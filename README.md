@@ -1,6 +1,5 @@
 # [Skull Cyber Security](https://skullcybersecurity.com/) ~ [Toolbox SCS](https://github.com/toolboxscs/)
-The **[Toolbox SCS](https://skullcybersecurity.com/)** website source code.
-![Hero Banner](https://user-images.githubusercontent.com/66683297/156097390-ceb446b6-7123-4fed-a6f0-68e24753ff82.png)
+The **[Toolbox SCS](https://academy.skullcybersecurity.com/)** website source code.
 
 # Bugs and Issues
 Have a bug, suggestion or question? [Open a new issue](https://github.com/toolboxscs/ToolboxSCS/issues/new) here on GitHub.
